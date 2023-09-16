@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpaulzagde&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpaulzagde" /> </p>
 
-- 🔭 I’m currently working on [Delivery Time Predictor](https://bit.ly/3kP4LiW)
+- 🔭 I’m currently working on [Machine Learning Projects]
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikhilPaulzagde](https://github.com/NikhilPaulzagde)
 
