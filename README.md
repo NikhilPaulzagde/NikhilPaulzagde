@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2cR9rxaSLWZhR4cqNZHAWh&ust=1696923048457000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDZ24-56IEDFQAAAAAdAAAAABAK)
+![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Nikhil Paulzagde</h1>
 <h3 align="center">An Aspiring Data Scientist and Analyst from India</h3>
 
