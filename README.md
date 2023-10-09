@@ -1,8 +1,8 @@
-![logo](https://github.com/NikhilPaulzagde/NikhilPaulzagde/blob/36ca916eae2718c4f1fe19df831ed08bc633dfd9/pxfuel.jpg)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2AVZUuawtfwNpbbahuSM_e&ust=1696923005168000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCW8vq46IEDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Nikhil Paulzagde</h1>
 <h3 align="center">An Aspiring Data Scientist and Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpaulzagde&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpaulzagde" /> </p>
 
