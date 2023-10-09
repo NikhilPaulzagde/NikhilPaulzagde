@@ -1,8 +1,8 @@
-![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![logo](https://github.com/NikhilPaulzagde/NikhilPaulzagde/blob/36ca916eae2718c4f1fe19df831ed08bc633dfd9/pxfuel.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Paulzagde</h1>
 <h3 align="center">An Aspiring Data Scientist and Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/NikhilPaulzagde/NikhilPaulzagde/blob/36ca916eae2718c4f1fe19df831ed08bc633dfd9/pxfuel.jpg">
+<img align="right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpaulzagde&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpaulzagde" /> </p>
 
