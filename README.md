@@ -1,12 +1,12 @@
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Nikhil Paulzagde</h1>
-<h3 align="center">An Aspiring Data Scientist and Analyst from India</h3>
+<h3 align="center">An Aspiring Data Scientist and Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpaulzagde&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpaulzagde" /> </p>
 
-- 🔭 I’m currently working on [Machine Learning Projects]
+- 🔭 I’m currently working on [Data Analyst Projects]
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikhilPaulzagde](https://github.com/NikhilPaulzagde)
 
