@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpaulzagde&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpaulzagde" /> </p>
 
-- 🔭 I’m currently working on [Data Analyst Projects]
+- 🔭 I’m currently working as Full Stack Developer in VK Softech LLP
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikhilPaulzagde](https://github.com/NikhilPaulzagde)
 
-- 📫 How to reach me **nickpaulzagde@gmail.com**
+- 📫 How to reach me **nikhilvijaypaulzagde@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
